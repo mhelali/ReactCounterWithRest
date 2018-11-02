@@ -1,0 +1,17 @@
+-> Go to Servercode folder in command prompt and execute:
+ npm install
+ npm start 
+
+-> Go to ReactClient folder in command prompt and execute:
+  npm install
+  npm start 
+
+
+Note: First Server needs to be started, then client. 
+
+The hardcoded Login:
+abc@gmail.com
+
+Pasword:
+123
+
